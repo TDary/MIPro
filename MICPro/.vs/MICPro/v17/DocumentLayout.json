@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MICPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70A90DA2-4EC1-4EB0-A871-4CBA53F22EBE}|MICPro.vcxproj|F:\\MICPro\\MICPro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70A90DA2-4EC1-4EB0-A871-4CBA53F22EBE}|MICPro.vcxproj|solutionrelative:MICPro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MICPro.cpp",
+              "DocumentMoniker": "F:\\MICPro\\MICPro.cpp",
+              "RelativeDocumentMoniker": "MICPro.cpp",
+              "ToolTip": "F:\\MICPro\\MICPro.cpp",
+              "RelativeToolTip": "MICPro.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T04:03:28.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
